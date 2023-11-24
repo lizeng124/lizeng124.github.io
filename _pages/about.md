@@ -29,11 +29,11 @@ Random Matrix Theory, High dimensional Statistics, Time Series Analysis, High Fr
 
 ## Education
 
-Ph.D., Department of Statistics and Actuarial Science, HKU, 2012/09~2017/03 
+* Ph.D., Department of Statistics and Actuarial Science, HKU, 2012/09~2017/03 
 
-M.Sc, School of Statistics, RUC, 2009/09~2012/06, GPA 3.84/4.0             
+* M.Sc, School of Statistics, RUC, 2009/09~2012/06, GPA 3.84/4.0             
 
-B.Sc,  School of Mathematical Science, BNU, 2005/09~2009/06, GPA 3.9/4.0
+* B.Sc,  School of Mathematical Science, BNU, 2005/09~2009/06, GPA 3.9/4.0
 
 ## Contact Information
 
