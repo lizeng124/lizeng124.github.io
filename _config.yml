@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "Shenzhen, China"
 title                    : "Zeng LI / Homepage"
 title_separator          : "-"
 name                     : &name "Zeng LI(李曾)"
@@ -83,7 +83,7 @@ author:
   name             : "Zeng LI"
   avatar           : "image - Copy.jpg"
   bio              : "Welcome to my Homepage"
-  location         : "Location"
+  location         : "Shenzhen, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # 
