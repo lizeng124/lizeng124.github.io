@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 collection: publications
-permalink: /publication/Publications
+permalink: /publication/Pub
 date: 2023-12-31
 ---
 
