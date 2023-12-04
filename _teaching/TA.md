@@ -1,8 +1,8 @@
 ---
-title: "Statistical Computation and Software"
+title: "Southern University of Science and Technology"
 collection: teaching
 permalink: /teaching/TA
-venue: "Department of Statistics and Data Science, Southern University of Science and Technology"
+venue: "Department of Statistics and Data Science"
 date: 2019-09-01
 location: "Shenzhen, China"
 ---
