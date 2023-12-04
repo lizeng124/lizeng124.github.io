@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Miscellanea"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,51 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Academic service:
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+- Referee for JASA, JRSSB, AoS, Biometrika, Bernoulli etc
+- 
+## Awards and Honors:
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- Excellent Teaching Assistant Award, 2012~2016, Department of Statistics And Actuarial Science, HKU.
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- 3rd prize, seventeenth session of the “Capital Cup” contest scientific and  technological works, 2009/05.
+
+- 2nd prize, Honorable mention, COMAP mathematical contest in modeling, 2007/10.
+
+- 1st professional scholarship prize, 2005~2006.
+
+## Internship Experiences:
+
+- Internship, Noah's Ark Lab, Huawei Technologies. Hong Kong Branch. Recommend Systems with deep learning techniques, Programming with Python. 2014/12~2015/05.
+
+- Internship, Enterprise Risk Services, Deloitte Touche Tohmatsu CPA Ltd. Beijing Branch. Validation of internal rating based Credit Risk model for Shanghai Pudong Development Bank, Programming with SAS and Matlab. 2011/06~2011/08.
+
+- Internship, CVSC-TNS Market Research, Beijing. Audience Rating Data Analysis with R and Excel VBA. 2012/07. 
