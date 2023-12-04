@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Zeng LI, I am currently an associate professor in the Department of Statistics and Data Science, Southern University of Science and Technology, China. My research interests cover random matrix theory and its applications to high dimensional statistical problems, including time series analysis, change point detection and statistical inference. I am also interested in machine learning problems.
+I am Zeng LI, I am currently an associate professor in the Department of Statistics and Data Science, Southern University of Science and Technology, Shenzhen, China. My research interests cover random matrix theory and its applications to high dimensional statistical problems, including time series analysis, change point detection and statistical inference. I am also interested in machine learning problems.
 
 ## Research Interest
 
