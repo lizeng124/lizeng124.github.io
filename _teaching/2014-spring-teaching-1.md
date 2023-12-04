@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Statistical Computation and Software"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+permalink: /teaching/Fall
+venue: "Department of Statistics and Data Science, Southern University of Science and Technology"
 date: 2014-01-01
-location: "City, Country"
+location: "Shenzhen, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
-======
 
-Heading 2
-======
 
-Heading 3
-======
+
