@@ -13,7 +13,7 @@ I am Zeng LI, I am currently an associate professor in the Department of Statist
 ## Research Interest
 
 
-Random Matrix Theory, High dimensional Statistics, Time Series Analysis, High Frequency Data Analysis, Deep Learning, Machine Learning
+Random Matrix Theory, High dimensional Statistics, Time Series Analysis, Deep Learning, Machine Learning
 
 
 ## Work Experience
