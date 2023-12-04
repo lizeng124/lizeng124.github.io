@@ -12,7 +12,7 @@ redirect_from:
 ## Academic service:
 
 - Referee for JASA, JRSSB, AoS, Biometrika, Bernoulli etc
-- 
+
 ## Awards and Honors:
 
 - Excellent Teaching Assistant Award, 2012~2016, Department of Statistics And Actuarial Science, HKU.
