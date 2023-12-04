@@ -1,6 +1,5 @@
 ---
 title: "Miscellanea"
-collection: portfolio
 ---
 
 ## Awards and Honors:
