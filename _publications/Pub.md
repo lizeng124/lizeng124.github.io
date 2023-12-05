@@ -15,7 +15,7 @@ date: 2023-12-31
 8. **Zeng Li**, Qinwen Wang*,  Runze Li,  (2021). CLT for linear spectral statistics of large dimensional Kendall rank correlation matrices,  The  Annals of Statistics, 49(3), 1569-1593. 
 9. **Zeng Li**, Qinwen Wang*, Chuanlong Xie, (2021). Asymptotic Normality and Confidence Intervals for Prediction Risk of the Min-norm Least Squares Estimator, in International Conference on Machine Learning (ICML), May 2021. 
 10. Zhehan Kan, Shuoshuo Chen, **Zeng Li**, Zhihai He* (2022). Self-Constrained Inference Optimization on Structural Groups for Human Pose Estimation, Proceedings of the 17th European Conference on Computer Vision (ECCV), 2022.
-11. **Zeng Li**, Cheng Wang*, Qinwen Wang (2023). On eigenvalues of a high dimensional Kendall's rank correlation matrix with dependence, Science China Mathematics, to appear.
+11. **Zeng Li**, Cheng Wang*, Qinwen Wang (2023). On eigenvalues of a high dimensional Kendall's rank correlation matrix with dependence, Science China Mathematics, 66, 2615-2640.
 12. Zhanting Long, **Zeng Li***, Ruitao Lin, Jiaxin Qiu, (2023). On singular values of large dimensional lag-tau sample auto-correlation matrices. Journal of Multivariate Analysis, 197, 2023.
 13. Jiaxin Qiu, **Zeng Li***, Jianfeng Yao, (2023). Asymptotic normality for eigenvalue statistics of a general sample covariance matrix when p/n→∞ and applications. The Annals of Statistics, (51)3, 1427-1451.
 14. Xuanzhe Xiao, **Zeng Li***, Chuanlong Xie, Fengwei Zhou (2023).  Heavy-tailed regularization of weight matrices in deep neural networks. 32nd International Conferences on Artificial Neural Networks, Sep 2023.
