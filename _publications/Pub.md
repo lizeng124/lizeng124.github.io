@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Publications"
 collection: publications
 permalink: /publication/Pub
 date: 2023-12-31
