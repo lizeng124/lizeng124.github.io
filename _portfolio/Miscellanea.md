@@ -4,6 +4,10 @@ title: "Miscellanea"
 
 ## Awards and Honors:
 
+- SUSTech College of Science Youth Research Award, SUSTech, 2022.
+
+- National Distinguished Expert (Youth Program), 2020.
+
 - Excellent Teaching Assistant Award, 2012~2016, Department of Statistics And Actuarial Science, HKU.
 
 - 3rd prize, seventeenth session of the “Capital Cup” contest scientific and  technological works, 2009/05.
