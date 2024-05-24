@@ -11,17 +11,19 @@ redirect_from:
 
 ## Academic service:
 
-- Referee for JASA, JRSSB, AoS, Biometrika, Bernoulli etc
+- Science China Mathematics, Youth Editor, 2024-2027.
+  
+- Referee for JASA, JRSSB, AoS, Biometrika, AoAP, Bernoulli, etc.
 
 ## Awards and Honors:
 
-- Excellent Teaching Assistant Award, 2012~2016, Department of Statistics And Actuarial Science, HKU.
+- SUSTech College of Science Youth Research Award, 2022, SUSTech.
 
-- 3rd prize, seventeenth session of the “Capital Cup” contest scientific and  technological works, 2009/05.
+-  Excellent Teaching Assistant Award, 2012~2016, Department of Statistics And Actuarial Science, HKU.
 
-- 2nd prize, Honorable mention, COMAP mathematical contest in modeling, 2007/10.
+- 2nd prize, Honorable mention, COMAP mathematical contest in modeling, 2007/10, BNU.
 
-- 1st professional scholarship prize, 2005~2006.
+- 1st professional scholarship prize, 2005~2006, BNU.
 
 ## Internship Experiences:
 
