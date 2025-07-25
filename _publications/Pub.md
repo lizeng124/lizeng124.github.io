@@ -19,6 +19,6 @@ date: 2025-03-07
 12. Zhanting Long, **Zeng Li***, Ruitao Lin, Jiaxin Qiu, (2023). On singular values of large dimensional lag-tau sample auto-correlation matrices. Journal of Multivariate Analysis, 197, 105205.
 13. Jiaxin Qiu, **Zeng Li***, Jianfeng Yao, (2023). Asymptotic normality for eigenvalue statistics of a general sample covariance matrix when p/n→∞ and applications. The Annals of Statistics, (51)3, 1427-1451.
 14. Xuanzhe Xiao, **Zeng Li***, Chuanlong Xie, Fengwei Zhou, (2023).  Heavy-tailed regularization of weight matrices in deep neural networks. 32nd International Conferences on Artificial Neural Networks, Sep 2023.
-15. Jiaxin Qiu, **Zeng Li***, Jianfeng Yao, (2024). Robust estimation for number of factors in high dimensional factor modeling via Spearman correlation matrix,  Journal of the American Statistical Association, online.
+15. Jiaxin Qiu, **Zeng Li***, Jianfeng Yao, (2025). Robust estimation for number of factors in high dimensional factor modeling via Spearman correlation matrix,  Journal of the American Statistical Association, 120(550), 1139-1151.
 16. Qianqian Jiang, Wenbo Li, **Zeng Li***, (2025).  On testing mean of high dimensinal compositional data, Statistics and Probability Letters, 222, 110396.
 17. Xiaoling Wu, Junpeng Zhu, **Zeng Li***, (2025). Weight matrices compression based on PDB model in deep neural networks, International Conference on Machine Learning (ICML), July 2025. 
