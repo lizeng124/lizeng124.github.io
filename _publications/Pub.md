@@ -2,7 +2,7 @@
 title: "Publications"
 collection: publications
 permalink: /publication/Pub
-date: 2025-03-07
+date: 2026-05-01
 ---
 
 1. Chao Yu, Yue Fang*, **Zeng Li**, Bo Zhang, Xujie Zhao,  (2014). Non-parametric estimation of high-frequency spot volatility for Brownian semi-martingale with jumps,  Journal of Time Series Analysis,  35.6: 572-591. 
