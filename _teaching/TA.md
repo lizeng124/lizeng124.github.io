@@ -4,7 +4,6 @@ collection: teaching
 type: "UG/PG"
 permalink: /teaching/TA
 venue: "Department of Statistics and Data Science"
-date: 2019-09-01
 location: "Shenzhen, China"
 ---
 
